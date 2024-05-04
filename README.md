@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Yevhenii Kaharlytskyi from Ukraine <br>- 📚 I'm currently learning C and C++</p>
+<p align="left">I'm Yevhenii Kaharlytskyi from Ukraine🇺🇦 <br>- 📚 I'm currently learning C and C++</p>
 
 ###
 
