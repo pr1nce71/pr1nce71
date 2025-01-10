@@ -17,7 +17,6 @@ I'm **Yevhenii Kaharlytskyi** from Ukraine
 - C, C++, Git 
 
 #### Interests
-- Software architecture  
 - Diving deep into projects I’m working on and continuously improving them  
 - Problem-solving and exploring innovative solutions  
 
