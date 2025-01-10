@@ -11,7 +11,6 @@
 I'm **Yevhenii Kaharlytskyi** from Ukraine  
 - 🎓 Studying at 42 Wolfsburg IT School  
 - 💻 Currently learning C and C++  
-- 🛠️ Working on exciting projects like 'so_long', 'ft_printf', and 'Minishell'  
 
 #### Skills
 - C, C++, Git 
