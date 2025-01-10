@@ -14,7 +14,7 @@
   <a href="https://t.me/Yevhenii_Fursov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
-  <a href="https://wa.me/+4915114018836" target="_blank">
+  <a href="https://wa.me/+380958931572" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
 </div>
