@@ -14,12 +14,12 @@ I'm **Yevhenii Kaharlytskyi** from Ukraine
 - 🛠️ Working on exciting projects like 'so_long', 'ft_printf', and 'Minishell'  
 
 #### Skills
-- C, C++, Git, Linux, Shell scripting  
-- Debugging and system-level programming  
+- C, C++, Git 
 
 #### Interests
 - Software architecture  
-- Problem-solving and open-source projects  
+- Diving deep into projects I’m working on and continuously improving them  
+- Problem-solving and exploring innovative solutions  
 
 📫 Reach me: [Email](mailto:evgen192788@gmail.com)
 
