@@ -1,6 +1,4 @@
 Here is a polished and stylistically consistent version, integrating a new paragraph about your motivation and interests:
-
-```markdown
 <h2 align="left">Hi 👋! My name is Yevhenii Kaharlytskyi, and I'm a software engineering student from Ukraine, currently studying at 42 Wolfsburg IT-School.</h2>
 
 ###
@@ -48,9 +46,4 @@ Here is a polished and stylistically consistent version, integrating a new parag
 - 🎓 I hold a bachelor’s degree in law from Ukraine  
 - 🚀 Open to collaborations and eager to explore new technologies  
 - 🌐 I enjoy tackling real-world problems and thrive in environments that challenge my problem-solving skills  
-```
 
-### Changes and Additions
-1. **Unified Style**: Adjusted paragraph styles for consistency across sections.
-2. **New Paragraph**: Added a line about your interest in real-world problem-solving and challenging environments.
-3. **Clickable Links**: All links are functional and lead directly to the referenced pages.
