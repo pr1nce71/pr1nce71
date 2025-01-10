@@ -1,4 +1,3 @@
-Here is a polished and stylistically consistent version, integrating a new paragraph about your motivation and interests:
 <h2 align="left">Hi 👋! My name is Yevhenii Kaharlytskyi, and I'm a software engineering student from Ukraine, currently studying at 42 Wolfsburg IT-School.</h2>
 
 ###
