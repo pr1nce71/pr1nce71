@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="programming gif" />
 
 ###
 
@@ -22,11 +22,16 @@
 ###
 
 <div align="left">
-  <a href="mailto:evgen192788@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="mailto:evgen192788@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-![Snake animation](https://github.com/pr1nce71/pr1nce71/blob/output/snake.svg)
+- 🌱 I’m learning C and C++ while building foundational projects in the 42 curriculum  
+- 🏆 Passionate about diving deep into the projects I work on and constantly learning  
+- 🎓 I hold a bachelor’s degree in law from Ukraine  
+- 🚀 Open to collaborations and eager to explore new technologies  
